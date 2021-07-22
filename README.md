@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
-# Projeto Digital Innovation One - App Android KOTLIN para apresentar seu portfólio de projetos do GitHub 
+# Projeto Digital Innovation One - Sistema web de busca de restaurantes 
 Este projeto foi proposto pela Digital Innovation One
 - Link do código original: https://github.com/patrick-narciso/restaurants-search
 - Professora: Patrick Narciso
