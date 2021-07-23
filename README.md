@@ -15,6 +15,7 @@ Este projeto foi proposto pela Digital Innovation One
 ## Descrição
 Nesse projeto vamos construir junto com o especialista um sistema web de busca de restaurantes, parecido com o serviço que o Google oferece. Vamos desenvolver esse buscador usando React.JS e API do Google, iniciando do zero à nuvem.
 
+## Descrição do projeto original
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
